@@ -1,11 +1,11 @@
 package ui
 
+	//"gopkg.in/lifx-tools/controlifx.v1"
 import (
 	"bytes"
 	"errors"
 	"github.com/go-gl/gl/v2.1/gl"
 	"github.com/go-gl/glfw/v3.2/glfw"
-	"gopkg.in/lifx-tools/controlifx.v1"
 	"image"
 	"image/draw"
 	_ "image/png"
